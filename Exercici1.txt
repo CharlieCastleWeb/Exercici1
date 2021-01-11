@@ -1,1 +1,5 @@
+<<<<<<< .merge_file_a04152
 Exercici1 - Text Modificat 2
+=======
+Exercici1 - Text modificat
+>>>>>>> .merge_file_a00336
